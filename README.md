@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Marcin 👋
 
-<!--
-**Oleksy1121/Oleksy1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer** transitioning from Data Analytics | Building intelligent systems with Python
 
-Here are some ideas to get you started:
+📍 Poland • 🔗 [Portfolio](https://marcin-oleszczyk.pl) • [LinkedIn](https://www.linkedin.com/in/marcin-o-2aaa75208/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**ML/AI:** PyTorch • TensorFlow • YOLO • Detectron2 • Stable Baselines3 • OpenAI API • LangChain  
+**Backend:** Python • FastAPI • PostgreSQL • REST APIs  
+**MLOps:** Docker • GCP • Git • CI/CD  
+**Data:** Pandas • NumPy • Scikit-learn • SQL
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Car-damage-detection](https://github.com/Oleksy1121/Car-damage-detection) | Computer vision system comparing YOLOv8 vs Faster R-CNN for detecting car defects. Includes custom dataset, training pipeline, and GUI app. | `YOLO` `Decetron2` `Computer Vision` |
+| [SnakeAI](https://github.com/Oleksy1121/SnakeAI) | Reinforcement learning agent trained with PPO algorithm to master the Snake game. | `Stable Baselines3` `RL` `PPO` |
+| [BrochurAI](https://github.com/Oleksy1121/BrochurAI) | AI-powered brochure generator leveraging LLMs for automated content creation. | `LLM` `Python` `OpenAI API` |
+| [video-summarizer](https://github.com/Oleksy1121/video-summarizer) | Automated video summarization using NLP and speech-to-text processing. | `NLP` `Python` `AI` |
+| [ml-engineer-portfolio](https://github.com/Oleksy1121/ml-engineer-portfolio) | Full-stack ML portfolio with containerized deployment. | `FastAPI` `Docker` `React` `GCP` |
+
+---
+
+## 📊 What I Bring
+
+- **4 years** commercial experience in data analysis & engineering
+- End-to-end ML projects: from data collection to deployment
+- Strong focus on **Computer Vision**, **Reinforcement Learning**, and **LLM integration**
+- Production-ready code with Docker, APIs, and cloud deployment
+
+---
+
+**Open to opportunities** in AI/ML Engineering and Python Development 🇵🇱 🇪🇺
