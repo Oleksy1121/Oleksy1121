@@ -10,7 +10,7 @@
 
 **ML/AI:** PyTorch • TensorFlow • YOLO • Detectron2 • Stable Baselines3 • OpenAI API • LangChain  
 **Backend:** Python • FastAPI • PostgreSQL • REST APIs  
-**MLOps:** Docker • GCP • Git • CI/CD  
+**MLOps:** Docker • GCP • Git • GitHub Actions • CI/CD  
 **Data:** Pandas • NumPy • Scikit-learn • SQL
 
 ---
@@ -22,8 +22,8 @@
 | [Car-damage-detection](https://github.com/Oleksy1121/Car-damage-detection) | Computer vision system comparing YOLOv8 vs Faster R-CNN for detecting car defects. Includes custom dataset, training pipeline, and GUI app. | `YOLO` `Decetron2` `Computer Vision` |
 | [SnakeAI](https://github.com/Oleksy1121/SnakeAI) | Reinforcement learning agent trained with PPO algorithm to master the Snake game. | `Stable Baselines3` `RL` `PPO` |
 | [BrochurAI](https://github.com/Oleksy1121/BrochurAI) | AI-powered brochure generator leveraging LLMs for automated content creation. | `LLM` `Python` `OpenAI API` |
-| [video-summarizer](https://github.com/Oleksy1121/video-summarizer) | Automated video summarization using NLP and speech-to-text processing. | `NLP` `Python` `AI` |
-| [ml-engineer-portfolio](https://github.com/Oleksy1121/ml-engineer-portfolio) | Full-stack ML portfolio with containerized deployment. | `FastAPI` `Docker` `React` `GCP` |
+| [video-summarizer](https://github.com/Oleksy1121/video-summarizer) | YouTube video summarizer with Whisper transcription + GPT-4o-mini. Gradio UI + FastAPI backend. | `Whisper` `GPT-4` `FastAPI` `Gradio` |
+| [ml-engineer-portfolio](https://github.com/Oleksy1121/ml-engineer-portfolio) | Full-stack ML portfolio with 3 interactive AI demos. CI/CD via GitHub Actions. | `FastAPI` `Docker` `React` `GCP` `GitHub Actions` |
 
 ---
 
