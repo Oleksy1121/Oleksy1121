@@ -22,7 +22,7 @@
 | [TechDocs](https://github.com/Oleksy1121/TechDocs) | Production RAG system for semantic search over PyTorch & FastAPI docs. Live at [marcin-oleszczyk.pl/techdocs](https://marcin-oleszczyk.pl/techdocs) | `RAG` `LangChain` `GPT-4o-mini` `Chroma` `FastAPI` `GCP` |
 | [Car-damage-detection](https://github.com/Oleksy1121/Car-damage-detection) | Computer vision system comparing YOLOv8 vs Faster R-CNN for detecting car defects. Custom dataset, training pipeline, and GUI app. | `YOLO` `Detectron2` `Computer Vision` |
 | [SnakeAI](https://github.com/Oleksy1121/SnakeAI) | Reinforcement Learning agent (PPO + CNN) trained on 50M steps to master Snake game. | `Stable Baselines3` `RL` `PPO` `Gymnasium` |
-| [video-summarizer](https://github.com/Oleksy1121/video-summarizer) | YouTube video summarizer with Whisper transcription + GPT-4o-mini. Gradio UI + FastAPI backend. | `Whisper` `GPT-4` `FastAPI` `Gradio` |
+| [video-summarizer](https://github.com/Oleksy1121/video-summarizer) | YouTube video summarizer with Whisper transcription + GPT-4o-mini. Gradio UI + FastAPI backend. Live at [marcin-oleszczyk.pl/video-summarizer](https://marcin-oleszczyk.pl/video-summarizer) | `Whisper` `GPT-4` `FastAPI` `Gradio` `GCP`|
 | [BrochurAI](https://github.com/Oleksy1121/BrochurAI) | AI-powered brochure generator leveraging LLMs for automated content creation. | `LLM` `Python` `OpenAI API` |
 | [ml-engineer-portfolio](https://github.com/Oleksy1121/ml-engineer-portfolio) | Full-stack ML portfolio with 3 interactive AI demos. CI/CD via GitHub Actions. | `FastAPI` `Docker` `React` `GCP` `GitHub Actions` |
 
